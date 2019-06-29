@@ -1,0 +1,1 @@
+avrdude -p m16 -c usbasp -e -U flash:w:$1.hex
