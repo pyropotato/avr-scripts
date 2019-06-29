@@ -11,7 +11,7 @@ Steps to follow:
     ``` bash 
     sudo bash ./compile_script program_name.c
      ``` 
-    without quotes. Replace program_name suitably.
+    without quotes. Replace ```program_name``` suitably.
     
     
  
