@@ -16,6 +16,7 @@ Steps to follow:
     
  
  **--Uploading:** 
+ 
 5. In the upload_script change the ```-p m16``` to your microcontroller.
 6. Execute:
     ```bash
