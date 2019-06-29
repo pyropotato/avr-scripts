@@ -13,5 +13,5 @@ Steps to follow:
 5. In the upload_script change the ```-p m16``` to your microcontroller.
 6. To upload code to microcontroller execute 
     ```bash
-       sudo bash ./upload_script program_name
-       ```
+    sudo bash ./upload_script program_name
+    ```
