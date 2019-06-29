@@ -14,9 +14,10 @@ Steps to follow:
     without quotes. Replace program_name suitably.
     
     
-    **--Uploading:**
+ 
+ **--Uploading:**
 5. In the upload_script change the ```-p m16``` to your microcontroller.
-6. To upload code to microcontroller execute:
+6. Execute:
     ```bash
     sudo bash ./upload_script program_name
     ```
